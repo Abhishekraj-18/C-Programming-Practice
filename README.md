@@ -11,6 +11,14 @@ This repository contains C programs written during practice sessions.
   * Marks `<= 30`: **FAIL**
   * Marks outside `0–100`: **Invalid Input**
 
+### Student Grade Checker
+* **File:** `student_grade_checker.c`
+* **Description:** Takes student marks (0–100) as input and assigns grades (A+, A, B, C) based on the score.
+* Marks `< 30`: **C**
+  * Marks `30 to 69`: **B**
+  * Marks `70 to 89`: **A**
+  * Marks `90 to 100`: **A+**
+
 ## How to Run
 
 1. Open terminal and navigate to the directory.
