@@ -19,6 +19,10 @@ This repository contains C programs written during practice sessions.
   * Marks `70 to 89`: **A**
   * Marks `90 to 100`: **A+**
 
+  ### Print Numbers 0 to N
+* **File:** 'while_loop_0_to_n.c'
+* **Description:** Takes a number `n` from the user and prints all numbers from `0` to `n` using a while loop.
+
 ## How to Run
 
 1. Open terminal and navigate to the directory.
