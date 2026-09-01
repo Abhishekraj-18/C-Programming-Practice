@@ -23,6 +23,10 @@ This repository contains C programs written during practice sessions.
 * **File:** 'while_loop_0_to_n.c'
 * **Description:** Takes a number `n` from the user and prints all numbers from `0` to `n` using a while loop.
 
+### Multiplication Table Generator
+* **File:** `multiplication_table.c`
+* **Description:** Takes a number as input from the user and prints its multiplication table from 1 to 10 using a `for` loop.
+
 ## How to Run
 
 1. Open terminal and navigate to the directory.
