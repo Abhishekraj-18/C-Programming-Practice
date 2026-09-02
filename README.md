@@ -27,6 +27,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `multiplication_table.c`
 * **Description:** Takes a number as input from the user and prints its multiplication table from 1 to 10 using a `for` loop.
 
+### Function Basics (Hello & Goodbye)
+* **File:** `hello_goodbye_functions.c`
+* **Description:** Demonstrates function declarations, function definitions, and function calls in C by printing "Hello!" and "Goodbye!".
+
 ## How to Run
 
 1. Open terminal and navigate to the directory.
