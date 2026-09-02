@@ -31,6 +31,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `hello_goodbye_functions.c`
 * **Description:** Demonstrates function declarations, function definitions, and function calls in C by printing "Hello!" and "Goodbye!".
 
+### Country Greeting Functions
+* **File:** `greeting_functions.c`
+* **Description:** Uses functions to print "Namaste" if the user enters 'i' for Indian, and "Bonjour" if the user enters 'f' for French.
+
 ## How to Run
 
 1. Open terminal and navigate to the directory.
