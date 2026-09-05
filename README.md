@@ -35,6 +35,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `greeting_functions.c`
 * **Description:** Uses functions to print "Namaste" if the user enters 'i' for Indian, and "Bonjour" if the user enters 'f' for French.
 
+### Area Calculator using Functions
+* **File:** `area_functions.c`
+* **Description:** Demonstrates function parameters and return values by calculating the area of a square, circle, and rectangle in C.
+
 ## How to Run
 
 1. Open terminal and navigate to the directory.
