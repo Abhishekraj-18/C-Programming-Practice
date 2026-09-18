@@ -39,9 +39,13 @@ This repository contains C programs written during practice sessions.
 * **File:** `area_functions.c`
 * **Description:** Demonstrates function parameters and return values by calculating the area of a square, circle, and rectangle in C.
 
+### Factorial using Recursion
+* **File:** `factorial_recursion.c`
+* **Description:** Calculates the factorial of a given number $n$ using recursive function calls in C.
+
 ## How to Run
 
-1. Open terminal and navigate to the directory.
-2. Compile using GCC:
+1. Open your terminal or VS Code Terminal.
+2. Compile any C program using `gcc`:
    ```bash
-   gcc pass_fail_checker.c -o output
+   gcc <file_name>.c -o output
