@@ -43,6 +43,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `factorial_recursion.c`
 * **Description:** Calculates the factorial of a given number $n$ using recursive function calls in C.
 
+### Student Percentage Calculator
+* **File:** `student_percentage.c`
+* **Description:** Calculates the average percentage of a student based on marks in Science, Math, and Sanskrit using a custom function.
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
