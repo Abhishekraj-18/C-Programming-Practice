@@ -47,6 +47,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `student_percentage.c`
 * **Description:** Calculates the average percentage of a student based on marks in Science, Math, and Sanskrit using a custom function.
 
+### Fibonacci Sequence using Recursion
+* **File:** `fibonacci_recursion.c`
+* **Description:** Calculates the $n^{\text{th}}$ term of the Fibonacci sequence using recursive function calls based on the relation $\text{fib}(n) = \text{fib}(n-1) + \text{fib}(n-2)$.
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
