@@ -51,6 +51,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `fibonacci_recursion.c`
 * **Description:** Calculates the $n^{\text{th}}$ term of the Fibonacci sequence using recursive function calls based on the relation $\text{fib}(n) = \text{fib}(n-1) + \text{fib}(n-2)$.
 
+### Pointer Operations & Dereferencing
+* **File:** `pointer_basics.c`
+* **Description:** Demonstrates basic pointer initialization, address assignment (`&`), and modifying variable values directly through dereferencing (`*ptr`).
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
