@@ -55,6 +55,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `pointer_basics.c`
 * **Description:** Demonstrates basic pointer initialization, address assignment (`&`), and modifying variable values directly through dereferencing (`*ptr`).
 
+### Swapping Two Numbers (Call by Value vs Call by Reference)
+* **File:** `swap_numbers.c`
+* **Description:** Demonstrates the key difference between passing arguments by value versus passing pointers by reference to swap two integer values in C.
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
