@@ -59,6 +59,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `swap_numbers.c`
 * **Description:** Demonstrates the key difference between passing arguments by value versus passing pointers by reference to swap two integer values in C.
 
+### Sum, Product & Average using Pointers
+* **File:** `sum_prod_avg_pointers.c`
+* **Description:** Demonstrates how pointers allow a function to return or modify multiple values (sum, product, and average of two numbers) simultaneously in C.
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
