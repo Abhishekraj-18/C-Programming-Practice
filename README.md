@@ -67,6 +67,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `array_reverse_pointer.c`
 * **Description:** Demonstrates traversing and printing array elements in reverse order using pointer decrement (`*ptr--`) and address comparisons.
 
+### Item Price GST Calculator
+* **File:** `array_gst_calculator.c`
+* **Description:** Calculates the total cost of 3 items stored in a float array including 18% GST for each item.
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
