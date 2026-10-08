@@ -63,6 +63,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `sum_prod_avg_pointers.c`
 * **Description:** Demonstrates how pointers allow a function to return or modify multiple values (sum, product, and average of two numbers) simultaneously in C.
 
+### Reverse Array using Pointer Arithmetic
+* **File:** `array_reverse_pointer.c`
+* **Description:** Demonstrates traversing and printing array elements in reverse order using pointer decrement (`*ptr--`) and address comparisons.
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
