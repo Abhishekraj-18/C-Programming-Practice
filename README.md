@@ -71,6 +71,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `array_gst_calculator.c`
 * **Description:** Calculates the total cost of 3 items stored in a float array including 18% GST for each item.
 
+### Print Array Using Function
+* **File:** `array_print_function.c`
+* **Description:** Demonstrates passing an array as a parameter to a custom function (`printNumbers`) to print its elements using tab spacing. Note: `arr[]` can also be represented as pointer notation `*arr`.
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
