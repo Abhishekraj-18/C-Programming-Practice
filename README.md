@@ -75,6 +75,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `array_print_function.c`
 * **Description:** Demonstrates passing an array as a parameter to a custom function (`printNumbers`) to print its elements using tab spacing. Note: `arr[]` can also be represented as pointer notation `*arr`.
 
+### Count Odd Numbers in an Array
+* **File:** `count_odd_array.c`
+* **Description:** Counts and returns the total number of odd elements present in an integer array using a custom function (`countOdd`).
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
