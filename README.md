@@ -79,6 +79,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `count_odd_array.c`
 * **Description:** Counts and returns the total number of odd elements present in an integer array using a custom function (`countOdd`).
 
+### Reverse an Array Using Function
+* **File:** `reverse_array_function.c`
+* **Description:** Reverses an array in-place by swapping elements from both ends up to `n / 2` using a custom `reverse()` function, and prints the result using `printArr()`.
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
