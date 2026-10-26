@@ -87,6 +87,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `store_fibonacci_array.c`
 * **Description:** Takes user input `n` and stores the first `n` Fibonacci numbers in an array using the relation `fib[i] = fib[i-1] + fib[i-2]`.
 
+### Store Multiplication Tables using 2D Array
+* **File:** `store_tables_2d_array.c`
+* **Description:** Demonstrates creating a 2D array (`tables[2][10]`) and using a custom function `storeTable()` to calculate and store multiplication tables of 2 and 3 in separate rows.
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
