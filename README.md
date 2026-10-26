@@ -83,6 +83,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `reverse_array_function.c`
 * **Description:** Reverses an array in-place by swapping elements from both ends up to `n / 2` using a custom `reverse()` function, and prints the result using `printArr()`.
 
+### Store First N Fibonacci Numbers in Array
+* **File:** `store_fibonacci_array.c`
+* **Description:** Takes user input `n` and stores the first `n` Fibonacci numbers in an array using the relation `fib[i] = fib[i-1] + fib[i-2]`.
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
