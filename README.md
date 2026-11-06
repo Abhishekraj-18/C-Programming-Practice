@@ -97,6 +97,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `print_string_loop.c`
 * **Description:** Demonstrates creating character arrays (`firstName` and `lastName`) and printing all characters individually using a loop until the null character (`\0`) is encountered.
 
+### Take String Input Using `%c` in a Loop
+* **File:** `string_input_percent_c.c`
+* **Description:** Reads a full string input character-by-character using `%c` format specifier until a newline (`\0` / `\n`) character is entered, appends the null terminator, and prints it using `puts()`.
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
