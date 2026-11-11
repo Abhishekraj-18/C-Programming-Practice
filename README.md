@@ -105,6 +105,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `password_salting.c`
 * **Description:** Takes a user-entered password, appends a salt string (`"123"`) to the end using string functions (`strcpy` and `strcat`), and prints the resulting salted password.
 
+### Slice a String from Index n to m
+* **File:** `string_slice.c`
+* **Description:** Implements a custom function `slice()` to extract characters from index `n` to `m` from a given string, null-terminates the sliced result, and prints it using `puts()`.
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
