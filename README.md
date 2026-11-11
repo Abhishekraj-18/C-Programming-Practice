@@ -101,6 +101,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `string_input_percent_c.c`
 * **Description:** Reads a full string input character-by-character using `%c` format specifier until a newline (`\0` / `\n`) character is entered, appends the null terminator, and prints it using `puts()`.
 
+### Password Salting Using `strcpy` and `strcat`
+* **File:** `password_salting.c`
+* **Description:** Takes a user-entered password, appends a salt string (`"123"`) to the end using string functions (`strcpy` and `strcat`), and prints the resulting salted password.
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
