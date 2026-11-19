@@ -109,6 +109,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `string_slice.c`
 * **Description:** Implements a custom function `slice()` to extract characters from index `n` to `m` from a given string, null-terminates the sliced result, and prints it using `puts()`.
 
+### Count Vowels in a String
+* **File:** `count_vowels_string.c`
+* **Description:** Traverses a string using a custom function (`countVowels`) and counts the total occurrence of lowercase vowels (`a`, `e`, `i`, `o`, `u`).
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
