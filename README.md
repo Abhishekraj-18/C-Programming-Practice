@@ -113,6 +113,10 @@ This repository contains C programs written during practice sessions.
 * **File:** `count_vowels_string.c`
 * **Description:** Traverses a string using a custom function (`countVowels`) and counts the total occurrence of lowercase vowels (`a`, `e`, `i`, `o`, `u`).
 
+### Check Character Presence in a String
+* **File:** `check_character_in_string.c`
+* **Description:** Searches a string character-by-character using a custom `checkChar()` function to determine whether a given target character is present or not.
+
 ## How to Run
 
 1. Open your terminal or VS Code Terminal.
